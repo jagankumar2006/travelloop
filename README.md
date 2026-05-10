@@ -5,7 +5,7 @@
 ## 🌟 Features
 
 - **Multi-City Itinerary Builder** – drag-and-drop stops, assign dates and activities
-- **Interactive Timeline View** – Timeline / List / Calendar modes
+- **Interactive Timeline View** – Timeline / List / Calendar modes / Durations
 - **Smart Budget Planner** – pie charts, bar charts, over-budget alerts, cost optimization
 - **Activity Explorer** – filter by category, cost, and duration
 - **City Search** – browse 20+ destinations with metadata
@@ -102,4 +102,4 @@ git push -u origin main
 
 ## 📄 License
 
-MIT License – built for hackathon submission.
+MIT License by 2026– built for hackathon submission.
