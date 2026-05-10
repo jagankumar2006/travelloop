@@ -1,4 +1,4 @@
-# Traveloop – Personalized Travel Planning Made Easy ✈️
+<img width="1600" height="835" alt="WhatsApp Image 2026-05-10 at 4 07 18 PM" src="https://github.com/user-attachments/assets/8ec382d5-04fd-497a-b8a0-f0c98bc15d10" /># Traveloop – Personalized Travel Planning Made Easy ✈️
 
 > A full-stack, locally-hosted travel planning platform built with React, Express.js, and MySQL.
 
@@ -79,8 +79,15 @@ http://localhost:5173
 | Admin | admin@traveloop.com | Admin@123 |
 
 ## 📸 Screenshots
+<img width="1600" height="835" alt="WhatsApp Image 2026-05-10 at 4 07 18 PM" src="https://github.com/user-attachments/assets/223ffc37-dc8b-4663-9df0-d4c5fe397d7b" />
+<img width="1600" height="837" alt="WhatsApp Image 2026-05-10 at 4 07 21 PM" src="https://github.com/user-attachments/assets/4d802c2c-9f6a-452f-af6a-c76a56db0aee" />
+<img width="1600" height="827" alt="WhatsApp Image 2026-05-10 at 4 07 24 PM" src="https://github.com/user-attachments/assets/a473e18e-7211-4ade-abcb-a582e550cd96" />
+<img width="1600" height="839" alt="WhatsApp Image 2026-05-10 at 4 07 25 PM" src="https://github.com/user-attachments/assets/2fdd0369-1a25-4eb2-a2f8-6ee8d863ea4d" />
+<img width="1600" height="818" alt="WhatsApp Image 2026-05-10 at 4 07 25 PM" src="https://github.com/user-attachments/assets/bb40a05e-69a9-42a2-b6ac-208edbf075fa" />
 
-*Add screenshots here after running the app.*
+
+
+
 
 ## 🐙 GitHub Push
 
