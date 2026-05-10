@@ -1,0 +1,13 @@
+node_modules/
+.env
+dist/
+build/
+uploads/profiles/*
+uploads/covers/*
+uploads/misc/*
+!uploads/profiles/.gitkeep
+!uploads/covers/.gitkeep
+!uploads/misc/.gitkeep
+*.log
+.DS_Store
+Thumbs.db
